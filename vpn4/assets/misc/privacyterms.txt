@@ -1,0 +1,13 @@
+We do not keep logs of your online activities and never associate any domains or applications that you use with you, your device, IP address, or email.
+
+TAGVPN collects a minimal amount of data to offer you a fast and reliable VPN service.
+
+ We collect: 
+• Device-specific information like OS version, hardware model, and IP address to    optimize our network connection to you. We do not store or log your IP address after you disconnect from the VPN.
+
+• Aggregated anonymous website activity data, to perform analytics on our
+Service and to ensure you can reliably access certain websites or apps
+
+• Payment information and optional email, when you purchase a paid plan
+
+For more information, please read our 
